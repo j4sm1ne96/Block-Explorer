@@ -1,3 +1,14 @@
+# This is week 3 of the Alchemy Ethereum Developer Course
+
+Below is the description and suggestions for working with alchemy's sdk to query the Ethereum blockchain. With this outline, I decided to build out an app that does the following:
+- Shows the 20 most recent blocks on Ethereum
+- Shows the details of those blocks, including hash, timestamp, miner, gas used
+- Shows all transactions in that block
+
+To view this app working, visit: https://block-explorer-o3wa.onrender.com/
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Ethereum Block Explorer
 
 The lessons this week covered the Ethereum JSON-RPC API and the `ethers.js` library giving us the ability to query the Ethereum blockchain and make transactions!
