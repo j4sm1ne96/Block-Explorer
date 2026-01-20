@@ -7,6 +7,12 @@ Below is the description and suggestions for working with alchemy's sdk to query
 
 To view this app working, visit: https://block-explorer-o3wa.onrender.com/
 
+Recent blocks:
+<img width="1470" height="714" alt="Screenshot 2026-01-20 at 21 51 28" src="https://github.com/user-attachments/assets/a53e5dbc-6a11-44d3-9d8b-ec0a85faaf3e" />
+
+Block details:
+<img width="1470" height="650" alt="Screenshot 2026-01-20 at 21 51 44" src="https://github.com/user-attachments/assets/158f462e-9ff0-4240-a24a-9f23c257b5c7" />
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Ethereum Block Explorer
